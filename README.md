@@ -123,24 +123,24 @@
 
 ## 1. Ручное управление, частный инвестор
 
-![Untitled diagram-2025-11-23-213054](https://github.com/user-attachments/assets/47da626b-efcd-4f8f-8249-2bbbe68b4c61)
+![Untitled diagram-2025-11-23-211919](https://github.com/user-attachments/assets/b5918428-86c0-483d-ad83-a599243dcbe9)
 
 ---
 
 ## 2. Управление с моим подходом, частный инвестор
 
-![Untitled diagram-2025-11-23-213023](https://github.com/user-attachments/assets/bf84bd05-11ea-401a-bfea-17997d8dbef7)
+![Untitled diagram-2025-11-23-212952](https://github.com/user-attachments/assets/71d6bde6-f0f5-402f-9093-cd83b2463e06)
 
 ---
 
 ## 3. Ручное управление, корпоративный инвестор
 
-![Untitled diagram-2025-11-23-212952](https://github.com/user-attachments/assets/136f82b6-5821-4963-8153-7b51625ef816)
+![Untitled diagram-2025-11-23-213023](https://github.com/user-attachments/assets/f88fc7d9-ab48-4f32-a267-d10e465dabcc)
 
 ---
 
 ## 4. Управление с моим подходом, корпоративный инвестор
 
-![Untitled diagram-2025-11-23-211919](https://github.com/user-attachments/assets/16475927-8910-4554-8cef-7771713f39cf)
+![Untitled diagram-2025-11-23-213054](https://github.com/user-attachments/assets/f5410a52-80f5-47bd-9c14-a4fd4abe8b15)
 
 ---
